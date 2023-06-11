@@ -1,0 +1,8 @@
+Bhaskar	4
+there	4
+name	8
+is	8
+hello	4
+my	8
+brother	4
+Vinay	4
